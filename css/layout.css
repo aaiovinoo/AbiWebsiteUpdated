@@ -19,7 +19,7 @@
 }
 @font-face {
     font-family: 'glyph';
-    src: url("font/glyphicons-halflings-regular");
+    src: url("font/glyphicons-halflings-regular.ttf");
 }
 
 .logo-wrap span{
