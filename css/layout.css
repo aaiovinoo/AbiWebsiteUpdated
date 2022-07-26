@@ -1874,6 +1874,24 @@ figure.vimeo a img, figure.youtube a img {
 	top:110px;
 }
 
+#explanation p {
+    font-family:'Poppins', sans-serif;
+    font-weight:400;
+    padding-bottom:1em;
+    color:dimgray;
+} 
+
+#explanation li{
+    font-family:'Poppins', sans-serif;
+    font-weight:400;
+    padding-left:1em;
+    padding-bottom: 4px;
+    color:dimgray;
+} 
+#project-stack p{
+     font-family:'Poppins', sans-serif;
+    font-weight:600;
+}
 /* #Blog page
 ================================================== */
 
@@ -3091,20 +3109,3 @@ figure.vimeo a img, figure.youtube a img {
 	padding-right:9px;
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
