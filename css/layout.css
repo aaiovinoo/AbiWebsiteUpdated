@@ -50,7 +50,7 @@ body.royal_preloader {
 
 }
 #bigname{
-  font-family:"glyph";
+  font-family:"glyph", serif;
   font-size:88px;
   font-weight:600;
   position:fixed;
