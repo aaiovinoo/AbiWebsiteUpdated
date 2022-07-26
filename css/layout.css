@@ -1073,11 +1073,19 @@ a.curent-nav-color{
     left:30vw;
 }
 
+#scholarships{
+    width:40vw; 
+    padding-bottom:1em
+}
+
 @media only screen and (max-width: 770px) {
    #grants {
     left:0;
     width:60vw;
   }
+    #scholarships{
+         width:60vw;
+    }
 }
 .awards h6{
     color:#00ad43;
