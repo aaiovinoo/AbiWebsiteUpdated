@@ -75,6 +75,11 @@ body.royal_preloader {
     #home {
          height: 50vh;
         background: url(../images/home-bg.jpg) no-repeat 20% 30% fixed;
+        
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
     }
     #bigname{
         top:10vh;
