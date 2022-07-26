@@ -73,7 +73,7 @@ body.royal_preloader {
 /* Load a smaller image for smaller screens */
 @media only screen and (max-width:660px) {
     #home {
-    background: url(../images/home-bg-small.jpg) no-repeat 20% 30% fixed;    
+    background: url(../images/home-bg-small.jpg) no-repeat 30% 50% fixed;    
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
