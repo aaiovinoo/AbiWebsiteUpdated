@@ -74,12 +74,11 @@ body.royal_preloader {
 @media only screen and (max-width:660px) {
     #home {
     background: url(../images/home-bg.jpg) no-repeat 20% 30% fixed;    
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
-    background-size: contain;
-    top:0;
-    left:0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:30vh;
     }
     #bigname{
         top:10vh;
