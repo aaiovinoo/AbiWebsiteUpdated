@@ -1081,10 +1081,10 @@ a.curent-nav-color{
 @media only screen and (max-width: 770px) {
    #grants {
     left:0;
-    width:60vw;
+    width:75vw;
   }
     #scholarships{
-         width:60vw;
+         width:75vw;
     }
 }
 .awards h6{
