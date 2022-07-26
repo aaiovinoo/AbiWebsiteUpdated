@@ -1067,6 +1067,18 @@ a.curent-nav-color{
     left:0;
   }
 }
+
+#grants{
+    width:20vw;
+    left:30vw;
+}
+
+@media only screen and (max-width: 770px) {
+   #grants {
+    left:0;
+    width:60vw;
+  }
+}
 .awards h6{
     color:#00ad43;
 }
