@@ -78,6 +78,7 @@ body.royal_preloader {
     -moz-background-size: contain;
     -o-background-size: contain;
     background-size: contain;
+    top:0;
     }
     #bigname{
         top:10vh;
