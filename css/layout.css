@@ -77,9 +77,9 @@ body.royal_preloader {
         background: url(../images/home-bg.jpg) no-repeat 40% 30% fixed;
     }
     #bigname{
-        top:29vh;
+        top:20vh;
         left:6vw;
-        font-size:68px;
+        font-size:48px;
 }
 }
 
