@@ -878,7 +878,7 @@ a.curent-nav-color{
 .nav-social li a.google:hover{
 	color:#df4a32;
 }
-.nav-social li a.envato:hover{
+.nav-social li a.linkedin:hover{
 	color:#81B441;
 }
 .nav-social li a:before{
@@ -892,20 +892,15 @@ a.curent-nav-color{
 	top:50%;
 	z-index:10;
 }
-.nav-social li a.twitter:before{
-	background-color:#00b6f1;
-}
-.nav-social li a.facebook:before{
-	background-color:#3b5998;
-}
-.nav-social li a.google:before{
-	background-color:#df4a32;
-}
+
 .nav-social li a.resume:before, .footer-social li a.resume:before{
 	background-color:#df4a32;
 }
 .nav-social li a.github:before, .footer-social li a.github:before{
 	background-color:#9f00c5;
+}
+.nav-social li a.linkedin:before, .footer-social li a.linkedin:before{
+	background-color:#0072b1;
 }
 
 
@@ -2803,8 +2798,8 @@ figure.vimeo a img, figure.youtube a img {
 .footer-social li a.google:before{
 	background-color:#df4a32;
 }
-.footer-social li a.vimeo:before{
-	background-color:#1ab7ea;
+.footer-social li a.linkedin:before{
+	background-color:#0072b1;
 }
 .footer-social li a.envato:hover{
 	background-color:#81B441;
