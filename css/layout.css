@@ -938,7 +938,7 @@ a.curent-nav-color{
 	padding-top:100px;
 }
 .padding-bottom {
-	padding-bottom:100px;
+	padding-bottom:60px;
 }
 .padding-top-bottom-sep {
 	padding-top:160px;
@@ -1020,6 +1020,7 @@ a.curent-nav-color{
 .box-title-in{
 	position:relative;
 	width:100%;
+    
 }
 .box-title-in h6{
 	text-align:left;
@@ -1033,10 +1034,22 @@ a.curent-nav-color{
 	font-weight:500;
 	font-size: 14px;
 	letter-spacing: 1px;
-	line-height:22px;
+	line-height:20px;
 	font-family: 'Poppins', sans-serif;
 	color:#111;
 }
+
+.paper{
+    color:#111;
+	font-size: 14px;
+	letter-spacing: 1px;
+	line-height:18px;
+}
+.paper:hover{
+    color:#848884;
+	font-weight:600;
+}
+
 #col1{
     width:20vw;
 }
@@ -1073,6 +1086,7 @@ a.curent-nav-color{
     width:40vw; 
     padding-bottom:1em
 }
+
 
 @media only screen and (max-width: 770px) {
    #grants {
@@ -1275,7 +1289,7 @@ a.curent-nav-color{
 /* #Parallax
 ================================================== */
 .parallax {
-	background-repeat: repat;
+	background-repeat: repeat;
 	background-attachment: fixed;
 	background-size: cover;
 	position: absolute;
@@ -1295,7 +1309,7 @@ a.curent-nav-color{
 }
 
 .parallax1 {
-	background-repeat: repat;
+	background-repeat: repeat;
 	background-attachment: fixed;
 	background-size: cover;
 	position: absolute;
@@ -1315,7 +1329,7 @@ a.curent-nav-color{
 }
 
 .parallax2 {
-	background-repeat: repat;
+	background-repeat: repeat;
 	background-attachment: fixed;
 	background-size: cover;
 	position: absolute;
@@ -1335,7 +1349,7 @@ a.curent-nav-color{
 }
 
 .parallax3 {
-	background-repeat: repat;
+	background-repeat: repeat;
 	background-attachment: fixed;
 	background-size: cover;
 	position: absolute;
